@@ -5,9 +5,9 @@
   }
 
 $camisas = array(
-    ['name' => 'Casaco Michigan', 'image' => 'uploads/imagem-04.jpg', 'price' => 'R$ 77.79'],
-    ['name' => 'Pijama Feminino', 'image' => 'uploads/imagem-06.jpg', 'price' => 'R$ 50.49'],
-    ['name' => 'Vestido Floral',  'image' => 'uploads/imagem-05.jpg', 'price' => 'R$ 119.99']
+    ['name' => 'Casaco Michigan', 'image' => 'uploads/imagem-04.jpg', 'price' => '77.79'],
+    ['name' => 'Pijama Feminino', 'image' => 'uploads/imagem-06.jpg', 'price' => '50.49'],
+    ['name' => 'Vestido Floral',  'image' => 'uploads/imagem-05.jpg', 'price' => '119.99']
   );
 
 ?>
